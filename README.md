@@ -36,4 +36,3 @@ Addresses                                                      AddressType Produ
   - Invoke-WebRequest
   - https://support.office.com/en-us/article/Office-365-URLs-and-IP-address-ranges-8548a211-3fe7-47cb-abb1-355ea5aa88a2
   - https://support.content.office.net/en-us/static/O365IPAddresses.xml
-  - https://github.com/thomas-illiet/Powershell/tree/master/Office365/Other/Get-O365IPAddress
