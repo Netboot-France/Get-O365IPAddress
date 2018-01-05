@@ -1,5 +1,5 @@
 <#PSScriptInfo
-	.VERSION 1.0.0
+	.VERSION 1.0.1
 	.GUID ce979c1d-cb4a-4ea6-8c82-9f0aa5911e29
 	.AUTHOR thomas.illiet
 	.COMPANYNAME netboot.fr
@@ -11,10 +11,10 @@
 
 <#  
     .SYNOPSIS  
-        The function gets the Office 365 IP address & URL information.
+        This script gets the Office 365 IP address & URL information.
 
     .DESCRIPTION
-        The function gets the Office 365 IP address & URL information, in XML format, and returns the Product (O365, SPO, etc...),
+        This script gets the Office 365 IP address & URL information, in XML format, and returns the Product (O365, SPO, etc...),
         AddressType (IPV4,IPV6, OR URL), and Address (Ex: 13.107.6.152/31) information.
 
     .NOTES  
@@ -23,7 +23,7 @@
         Date	    : 2017-10-23
         Last Update : 2017-10-23
         Test Date   : 2017-10-23
-        Version	    : 1.0.0
+        Version	    : 1.0.1
 
     .EXAMPLE
         PS> Get-O365IPAddress
