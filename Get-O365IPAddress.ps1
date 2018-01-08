@@ -1,5 +1,5 @@
 <#PSScriptInfo
-    .VERSION 1.0.2
+    .VERSION 1.0.3
     .GUID ce979c1d-cb4a-4ea6-8c82-9f0aa5911e29
     .AUTHOR thomas.illiet
     .COMPANYNAME netboot.fr
@@ -8,7 +8,7 @@
     .LICENSEURI https://raw.githubusercontent.com/Netboot-France/Get-O365IPAddress/master/LICENSE
     .PROJECTURI https://github.com/Netboot-France/Get-O365IPAddress
     .ICONURI https://raw.githubusercontent.com/Netboot-France/Get-O365IPAddress/master/Resource/Icon.png
-    .EXTERNALMODULEDEPENDENCIES PowershellGet
+    .EXTERNALMODULEDEPENDENCIES
     .REQUIREDSCRIPTS 
     .EXTERNALSCRIPTDEPENDENCIES 
     .RELEASENOTES
@@ -28,7 +28,7 @@
         Date        : 2017-10-23
         Last Update : 2018-01-08
         Test Date   : 2018-01-08
-        Version     : 1.0.2
+        Version     : 1.0.3
 
     .EXAMPLE
         PS> Get-O365IPAddress
