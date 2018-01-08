@@ -1,12 +1,17 @@
 <#PSScriptInfo
-	.VERSION 1.0.1
-	.GUID ce979c1d-cb4a-4ea6-8c82-9f0aa5911e29
-	.AUTHOR thomas.illiet
-	.COMPANYNAME netboot.fr
-	.COPYRIGHT (c) 2017 Netboot. All rights reserved.
-	.TAGS Office365
-	.LICENSEURI https://raw.githubusercontent.com/Netboot-France/Get-O365IPAddress/master/LICENSE
-	.PROJECTURI https://github.com/Netboot-France/Get-O365IPAddress
+    .VERSION 1.0.2
+    .GUID ce979c1d-cb4a-4ea6-8c82-9f0aa5911e29
+    .AUTHOR thomas.illiet
+    .COMPANYNAME netboot.fr
+    .COPYRIGHT (c) 2017 Netboot. All rights reserved.
+    .TAGS Office365
+    .LICENSEURI https://raw.githubusercontent.com/Netboot-France/Get-O365IPAddress/master/LICENSE
+    .PROJECTURI https://github.com/Netboot-France/Get-O365IPAddress
+    .ICONURI https://raw.githubusercontent.com/Netboot-France/Get-O365IPAddress/master/Resource/Icon.png
+    .EXTERNALMODULEDEPENDENCIES PowershellGet
+    .REQUIREDSCRIPTS 
+    .EXTERNALSCRIPTDEPENDENCIES 
+    .RELEASENOTES
 #>
 
 <#  
@@ -20,10 +25,10 @@
     .NOTES  
         File Name   : Get-O365IPAddress.ps1
         Author      : Thomas ILLIET, contact@thomas-illiet.fr
-        Date	    : 2017-10-23
-        Last Update : 2017-10-23
-        Test Date   : 2017-10-23
-        Version	    : 1.0.1
+        Date        : 2017-10-23
+        Last Update : 2018-01-08
+        Test Date   : 2018-01-08
+        Version     : 1.0.2
 
     .EXAMPLE
         PS> Get-O365IPAddress

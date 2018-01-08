@@ -1,6 +1,6 @@
 # Get-O365IPAddress
 
-![](Get-O365IPAddress.gif)
+![Demo](Resource/Demo.gif)
 
 ## SYNOPSIS  
 This script gets the Office 365 IP address & URL information.
@@ -14,7 +14,7 @@ This script gets the Office 365 IP address & URL information, in XML format, and
   - **Date**        : 2017-10-23
   - **Last Update** : 2017-10-23
   - **Test Date**   : 2017-10-23
-  - **Version**	    : 1.0.1
+  - **Version**     : 1.0.2
 
 ## INSTALL
 ```
